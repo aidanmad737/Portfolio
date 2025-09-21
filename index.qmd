@@ -1,5 +1,5 @@
 ---
-title: "Welcome to My Product Management Portfolio"
+title: "Welcome to Aidan Madsen's Portfolio"
 ---
 
 ::: {.hero-banner .text-center}

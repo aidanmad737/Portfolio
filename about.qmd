@@ -19,45 +19,77 @@ title: "About Me"
 
 ## Background
 
-Write a compelling narrative about your background, education, and what drives your passion for product management. This is your chance to tell your story and connect with potential employers or collaborators.
+I'm an Economics student at Brigham Young University with a passion for entrepreneurship and technology. Currently part of the Sandbox Entrepreneur Program, I'm gaining hands-on experience in building and launching technology companies. My diverse background includes leadership experience from serving as a missionary in Argentina, tutoring experience, and a strong foundation in customer service and operations.
 
 ### Education
 
-- **Degree Name**, University Name (Year)
-- **Relevant Coursework**: List key courses related to product management, analytics, or business
-- **Academic Achievements**: Honor societies, relevant projects, or awards
+- **Bachelor of Arts in Economics**, Brigham Young University (Expected April 2027)
+- **GPA**: 3.82
+- **Academic Achievements**:
+  - Earl C. Crockett Scholarship recipient
+  - Creators Club member
+  - Sandbox Entrepreneur Program participant - an immersive academic track that functions as a startup incubator for self-directed students
+  - Study abroad at BYU Jerusalem Center for Near Eastern Studies
 
 ### Experience
 
-#### Job/Internship Title - Company Name
-*Dates*
+#### ACT Tutor - Self-Employed
+*January 2025 - March 2025*
 
-- Key accomplishment or responsibility
-- Another achievement with quantifiable results
-- Skills or technologies used
+- Tutored 8+ high school students in Math, Science, and English, leading to increased ACT scores
+- Assessed student progress through weekly evaluations, adjusting lesson plans to maximize comprehension and retention
+- Developed personalized teaching strategies for diverse learning styles
 
-#### Another Position - Company Name
-*Dates*
+#### Missionary - Church of Jesus Christ of Latter-day Saints
+*July 2022 - May 2024, Buenos Aires, Argentina*
 
-- What you contributed to the organization
-- Projects you worked on
-- Impact you made
+- Led and trained 200+ fellow missionaries, fostering leadership, teamwork, communication, and teaching skills in a diverse environment
+- Taught hundreds of lessons in Spanish to individuals and families, helping them improve their lives through faith-based principles
+- Assisted with logistics of running a 200+ member organization: managing housing, stipends, organization of groups, planning of conferences
+
+#### Fast Food Worker - TacoTime
+*February 2018 - May 2021, Woodscross, UT*
+
+- Prepared an average of 150+ customer orders per shift, ensuring accuracy and efficiency in a fast-paced environment
+- Trained new employees on food preparation, safety standards, and customer service, improving overall team performance
+- Managed cash register transactions, handling over $1,000 daily with precision and accountability
+
+#### Car Wash Employee - Quick Quack Car Wash
+*February 2020 - November 2020, Bountiful, UT*
+
+- Assisted an average of 100+ customers per shift, providing fast and friendly service to ensure a positive experience
+- Operated car wash equipment and monitored maintenance needs, reducing downtime and keeping efficiency at peak levels
+- Promoted membership plans to customers, contributing to an increase in monthly subscriptions
 
 ### Skills & Interests
 
-**Technical Skills**
-- Programming languages (Python, R, SQL)
-- Analytics tools (Tableau, Power BI, Google Analytics)
-- Product management tools (Jira, Confluence, Figma)
+**Language Skills**
+- Fluent in Spanish (professional working proficiency)
+- Native English speaker
 
-**Soft Skills**
-- Communication and presentation
-- Cross-functional collaboration
-- Strategic thinking and problem-solving
+**Leadership & Communication**
+- Team leadership and training (200+ person organization)
+- Cross-cultural communication and adaptation
+- Public speaking and presentation
+- Mentoring and tutoring
+
+**Business & Analytics**
+- Economics and financial analysis
+- Customer service excellence
+- Operations management
+- Strategic planning and execution
 
 **Interests**
-Share what you're passionate about outside of work - this helps humanize your professional brand and can be great conversation starters.
+- Entrepreneurship and startup development
+- International business and cultural studies
+- Education and tutoring
+- Travel and cultural immersion
 
 ### What's Next
 
-Describe your career goals and what type of opportunities you're seeking. This helps visitors understand how they might work with you or whether you'd be a good fit for their organization.
+I'm actively seeking opportunities in product management, business development, and entrepreneurship. With my strong foundation in economics, proven leadership experience, and hands-on exposure to startup environments through the Sandbox program, I'm excited to contribute to innovative companies that are solving real-world problems. I'm particularly interested in roles that leverage my bilingual abilities, international experience, and passion for technology-driven solutions.
+
+**Contact Information:**
+- Email: aidanmmadsen@gmail.com
+- Phone: (801) 821-3111
+- Location: Provo, UT
